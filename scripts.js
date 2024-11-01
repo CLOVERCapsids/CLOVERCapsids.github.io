@@ -78,6 +78,7 @@ $(document).ready(function() {
                 capsid_descriptions[capsid].forEach(function (description) {
                     var new_link = document.createElement("a");
                     new_link.setAttribute("href", description[1]);
+                    new_link.setAttribute("target", "_blank");
                     $(new_link).html(description[0]);
                     descriptions.push(new_link);
                 });
