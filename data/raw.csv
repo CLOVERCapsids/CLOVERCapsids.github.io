@@ -1,0 +1,248 @@
+Species,Strain,Tissue,Cell Type,Recommended Capsid
+Mouse,129S1/SvlmJ,Brain,Astrocytes,Most potent for the desired cell type(s): AAV-PHP.AX with GRE or transgenic animal
+Mouse,BALB/cJ,Brain,Astrocytes,Most potent for the desired cell type(s): AAV-PHP.eC with GRE or transgenic animal
+Mouse,C57BL/6J,Brain,Astrocytes,Most potent for the desired cell type(s): AAV-PHP.AX with GRE or transgenic animal
+Mouse,CBA/J,Brain,Astrocytes,Most potent for the desired cell type(s): AAV-PHP.eC with GRE or transgenic animal
+Mouse,DBA/1J,Brain,Astrocytes,Most potent for the desired cell type(s): AAV-PHP.AX with GRE or transgenic animal
+Mouse,DBA/2J,Brain,Astrocytes,Most potent for the desired cell type(s): AAV-PHP.AX with GRE or transgenic animal
+Rat,Fischer,Brain,Astrocytes,Most potent for the desired cell type(s): AAV-PHP.eB with GRE
+Mouse,FVB/NJ,Brain,Astrocytes,Most potent for the desired cell type(s): AAV-PHP.AX with GRE or transgenic animal
+Rat,Long-Evans,Brain,Astrocytes,Most potent for the desired cell type(s): AAV-PHP.eB with GRE
+Mouse,LP/J,Brain,Astrocytes,Most potent for the desired cell type(s): AAV-PHP.AX with GRE or transgenic animal
+Macaque,Not Applicable,Brain,Astrocytes,Most potent for the desired cell type(s): AAV.MaCPNS1 with GRE
+Macaque,Not Applicable,Brain,Astrocytes,Most potent for the desired cell type(s) alternative: AAV.MaCPNS2 with GRE
+Marmoset,Not Applicable,Brain,Astrocytes,Most potent for the desired cell type(s): AAV.CAP-B22 with GRE
+Mouse,MOLF/EiJ,Brain,Astrocytes,Most potent for the desired cell type(s): AAV-PHP.AX with GRE or transgenic animal
+Mouse,NOD/ShiLtJ,Brain,Astrocytes,Most potent for the desired cell type(s): AAV-PHP.eC with GRE or transgenic animal
+Rat,Shaker,Brain,Astrocytes,Most potent for the desired cell type(s): AAV-PHP.eB with GRE
+Rat,Sprague Dawley,Brain,Astrocytes,Most potent for the desired cell type(s): AAV-PHP.eB with GRE
+Rat,Wistar,Brain,Astrocytes,Most potent for the desired cell type(s): AAV-PHP.eB with GRE
+Mouse,129S1/SvlmJ,Brain,Broad,Expanded cell type coverage: AAV-PHP.AX
+Mouse,129S1/SvlmJ,Brain,Broad,Most potent for the desired cell type(s): AAV-PHP.eB
+Mouse,BALB/cJ,Brain,Broad,Most potent for the desired cell type(s): AAV-PHP.eC
+Mouse,C57BL/6J,Brain,Broad,Expanded cell type coverage: AAV-PHP.AX
+Mouse,C57BL/6J,Brain,Broad,Most potent for the desired cell type(s): AAV-PHP.eB
+Mouse,CBA/J,Brain,Broad,Most potent for the desired cell type(s): AAV-PHP.eC
+Mouse,DBA/1J,Brain,Broad,Expanded cell type coverage: AAV-PHP.AX
+Mouse,DBA/1J,Brain,Broad,Most potent for the desired cell type(s): AAV-PHP.eB
+Mouse,DBA/2J,Brain,Broad,Expanded cell type coverage: AAV-PHP.AX
+Mouse,DBA/2J,Brain,Broad,Most potent for the desired cell type(s): AAV-PHP.eB
+Rat,Fischer,Brain,Broad,Most potent for the desired cell type(s): AAV-PHP.eB
+Mouse,FVB/NJ,Brain,Broad,Expanded cell type coverage: AAV-PHP.AX
+Mouse,FVB/NJ,Brain,Broad,Most potent for the desired cell type(s): AAV-PHP.eB
+Rat,Long-Evans,Brain,Broad,Most potent for the desired cell type(s): AAV-PHP.eB
+Mouse,LP/J,Brain,Broad,Expanded cell type coverage: AAV-PHP.AX
+Mouse,LP/J,Brain,Broad,Most potent for the desired cell type(s): AAV-PHP.eB
+Macaque,Not Applicable,Brain,Broad,Most potent for the desired cell type(s): AAV.MaCPNS1
+Macaque,Not Applicable,Brain,Broad,Most potent for the desired cell type(s) alternative: AAV.MaCPNS2
+Marmoset,Not Applicable,Brain,Broad,Most potent for the desired cell type(s): AAV.CAP-B22
+Mouse,MOLF/EiJ,Brain,Broad,Expanded cell type coverage: AAV-PHP.AX
+Mouse,MOLF/EiJ,Brain,Broad,Most potent for the desired cell type(s): AAV-PHP.eB
+Mouse,NOD/ShiLtJ,Brain,Broad,Most potent for the desired cell type(s): AAV-PHP.eC
+Rat,Shaker,Brain,Broad,Most potent for the desired cell type(s): AAV-PHP.eB
+Rat,Sprague Dawley,Brain,Broad,Most potent for the desired cell type(s): AAV-PHP.eB
+Rat,Wistar,Brain,Broad,Most potent for the desired cell type(s): AAV-PHP.eB
+Mouse,BALB/cJ,Brain,Neurons - broad,Most potent for the desired cell type(s): AAV-PHP.eC with GRE or transgenic animal
+Mouse,CBA/J,Brain,Neurons - broad,Most potent for the desired cell type(s): AAV-PHP.eC with GRE or transgenic animal
+Rat,Fischer,Brain,Neurons - broad,Most potent for the desired cell type(s): AAV-PHP.eB with GRE
+Rat,Long-Evans,Brain,Neurons - broad,Most potent for the desired cell type(s): AAV-PHP.eB with GRE
+Macaque,Not Applicable,Brain,Neurons - broad,Most specific for the desired cell type(s): AAV.CAP-Mac
+Macaque,Not Applicable,Brain,Neurons - broad,Most specific for the desired cell type(s) alternative: AAV9-X1.1
+Macaque,Not Applicable,Brain,Neurons - broad,Most potent for the desired cell type(s): AAV.CAP-Mac
+Macaque,Not Applicable,Brain,Neurons - broad,Most potent for the desired cell type(s) alternative: AAV9-X1.1
+Marmoset,Not Applicable,Brain,Neurons - broad,Most specific for the desired cell type(s): AAV.CAP-B10
+Marmoset,Not Applicable,Brain,Neurons - broad,Most potent for the desired cell type(s): AAV.CAP-B10
+Mouse,NOD/ShiLtJ,Brain,Neurons - broad,Most potent for the desired cell type(s): AAV-PHP.eC with GRE or transgenic animal
+Rat,Shaker,Brain,Neurons - broad,Most potent for the desired cell type(s): AAV-PHP.eB with GRE
+Rat,Sprague Dawley,Brain,Neurons - broad,Most potent for the desired cell type(s): AAV-PHP.eB with GRE
+Rat,Wistar,Brain,Neurons - broad,Most potent for the desired cell type(s): AAV-PHP.eB with GRE
+Macaque,Not Applicable,Brain,Neurons - NHP subtype specific,Most specific for the desired cell type(s): AAV.CAP-Mac with GRE
+Macaque,Not Applicable,Brain,Neurons - NHP subtype specific,Most specific for the desired cell type(s) alternative: AAV9-X1.1 with GRE
+Macaque,Not Applicable,Brain,Neurons - NHP subtype specific,Most potent for the desired cell type(s): AAV.CAP-Mac
+Macaque,Not Applicable,Brain,Neurons - NHP subtype specific,Most potent for the desired cell type(s) alternative: AAV9-X1.1
+Marmoset,Not Applicable,Brain,Neurons - NHP subtype specific,Most specific for the desired cell type(s): AAV.CAP-B10 with GRE
+Marmoset,Not Applicable,Brain,Neurons - NHP subtype specific,Most potent for the desired cell type(s): AAV.CAP-B10
+Mouse,129S1/SvlmJ,Brain,Neurons - subtype specific (Excitatory),Most specific for the desired cell type(s): AAV-PHP.N with GRE or transgenic animal
+Mouse,129S1/SvlmJ,Brain,Neurons - subtype specific (Excitatory),Most potent for the desired cell type(s): AAV.CAP-B10 with GRE or transgenic animal
+Mouse,129S1/SvlmJ,Brain,Neurons - subtype specific (Excitatory),Most potent for the desired cell type(s) alternative: AAV-PHP.eB with GRE or transgenic animal
+Mouse,C57BL/6J,Brain,Neurons - subtype specific (Excitatory),Most specific for the desired cell type(s): AAV-PHP.N with GRE or transgenic animal
+Mouse,C57BL/6J,Brain,Neurons - subtype specific (Excitatory),Most potent for the desired cell type(s): AAV.CAP-B10 with GRE or transgenic animal
+Mouse,C57BL/6J,Brain,Neurons - subtype specific (Excitatory),Most potent for the desired cell type(s) alternative: AAV-PHP.eB with GRE or transgenic animal
+Mouse,DBA/1J,Brain,Neurons - subtype specific (Excitatory),Most specific for the desired cell type(s): AAV-PHP.N with GRE or transgenic animal
+Mouse,DBA/1J,Brain,Neurons - subtype specific (Excitatory),Most potent for the desired cell type(s): AAV.CAP-B10 with GRE or transgenic animal
+Mouse,DBA/1J,Brain,Neurons - subtype specific (Excitatory),Most potent for the desired cell type(s) alternative: AAV-PHP.eB with GRE or transgenic animal
+Mouse,DBA/2J,Brain,Neurons - subtype specific (Excitatory),Most specific for the desired cell type(s): AAV-PHP.N with GRE or transgenic animal
+Mouse,DBA/2J,Brain,Neurons - subtype specific (Excitatory),Most potent for the desired cell type(s): AAV.CAP-B10 with GRE or transgenic animal
+Mouse,DBA/2J,Brain,Neurons - subtype specific (Excitatory),Most potent for the desired cell type(s) alternative: AAV-PHP.eB with GRE or transgenic animal
+Mouse,FVB/NJ,Brain,Neurons - subtype specific (Excitatory),Most specific for the desired cell type(s): AAV-PHP.N with GRE or transgenic animal
+Mouse,FVB/NJ,Brain,Neurons - subtype specific (Excitatory),Most potent for the desired cell type(s): AAV.CAP-B10 with GRE or transgenic animal
+Mouse,FVB/NJ,Brain,Neurons - subtype specific (Excitatory),Most potent for the desired cell type(s) alternative: AAV-PHP.eB with GRE or transgenic animal
+Mouse,LP/J,Brain,Neurons - subtype specific (Excitatory),Most specific for the desired cell type(s): AAV-PHP.N with GRE or transgenic animal
+Mouse,LP/J,Brain,Neurons - subtype specific (Excitatory),Most potent for the desired cell type(s): AAV.CAP-B10 with GRE or transgenic animal
+Mouse,LP/J,Brain,Neurons - subtype specific (Excitatory),Most potent for the desired cell type(s) alternative: AAV-PHP.eB with GRE or transgenic animal
+Mouse,MOLF/EiJ,Brain,Neurons - subtype specific (Excitatory),Most specific for the desired cell type(s): AAV-PHP.N with GRE or transgenic animal
+Mouse,MOLF/EiJ,Brain,Neurons - subtype specific (Excitatory),Most potent for the desired cell type(s): AAV.CAP-B10 with GRE or transgenic animal
+Mouse,MOLF/EiJ,Brain,Neurons - subtype specific (Excitatory),Most potent for the desired cell type(s) alternative: AAV-PHP.eB with GRE or transgenic animal
+Mouse,129S1/SvlmJ,Brain,Neurons - subtype specific (L2/3 & L4),Most specific for the desired cell type(s): AAV.CAP-B10 with GRE or transgenic animal
+Mouse,129S1/SvlmJ,Brain,Neurons - subtype specific (L2/3 & L4),Most potent for the desired cell type(s): AAV.CAP-B10 with GRE or transgenic animal
+Mouse,129S1/SvlmJ,Brain,Neurons - subtype specific (L2/3 & L4),Most potent for the desired cell type(s) alternative: AAV-PHP.eB with GRE or transgenic animal
+Mouse,C57BL/6J,Brain,Neurons - subtype specific (L2/3 & L4),Most specific for the desired cell type(s): AAV.CAP-B10 with GRE or transgenic animal
+Mouse,C57BL/6J,Brain,Neurons - subtype specific (L2/3 & L4),Most potent for the desired cell type(s): AAV.CAP-B10 with GRE or transgenic animal
+Mouse,C57BL/6J,Brain,Neurons - subtype specific (L2/3 & L4),Most potent for the desired cell type(s) alternative: AAV-PHP.eB with GRE or transgenic animal
+Mouse,DBA/1J,Brain,Neurons - subtype specific (L2/3 & L4),Most specific for the desired cell type(s): AAV.CAP-B10 with GRE or transgenic animal
+Mouse,DBA/1J,Brain,Neurons - subtype specific (L2/3 & L4),Most potent for the desired cell type(s): AAV.CAP-B10 with GRE or transgenic animal
+Mouse,DBA/1J,Brain,Neurons - subtype specific (L2/3 & L4),Most potent for the desired cell type(s) alternative: AAV-PHP.eB with GRE or transgenic animal
+Mouse,DBA/2J,Brain,Neurons - subtype specific (L2/3 & L4),Most specific for the desired cell type(s): AAV.CAP-B10 with GRE or transgenic animal
+Mouse,DBA/2J,Brain,Neurons - subtype specific (L2/3 & L4),Most potent for the desired cell type(s): AAV.CAP-B10 with GRE or transgenic animal
+Mouse,DBA/2J,Brain,Neurons - subtype specific (L2/3 & L4),Most potent for the desired cell type(s) alternative: AAV-PHP.eB with GRE or transgenic animal
+Mouse,FVB/NJ,Brain,Neurons - subtype specific (L2/3 & L4),Most specific for the desired cell type(s): AAV.CAP-B10 with GRE or transgenic animal
+Mouse,FVB/NJ,Brain,Neurons - subtype specific (L2/3 & L4),Most potent for the desired cell type(s): AAV.CAP-B10 with GRE or transgenic animal
+Mouse,FVB/NJ,Brain,Neurons - subtype specific (L2/3 & L4),Most potent for the desired cell type(s) alternative: AAV-PHP.eB with GRE or transgenic animal
+Mouse,LP/J,Brain,Neurons - subtype specific (L2/3 & L4),Most specific for the desired cell type(s): AAV.CAP-B10 with GRE or transgenic animal
+Mouse,LP/J,Brain,Neurons - subtype specific (L2/3 & L4),Most potent for the desired cell type(s): AAV.CAP-B10 with GRE or transgenic animal
+Mouse,LP/J,Brain,Neurons - subtype specific (L2/3 & L4),Most potent for the desired cell type(s) alternative: AAV-PHP.eB with GRE or transgenic animal
+Mouse,MOLF/EiJ,Brain,Neurons - subtype specific (L2/3 & L4),Most specific for the desired cell type(s): AAV.CAP-B10 with GRE or transgenic animal
+Mouse,MOLF/EiJ,Brain,Neurons - subtype specific (L2/3 & L4),Most potent for the desired cell type(s): AAV.CAP-B10 with GRE or transgenic animal
+Mouse,MOLF/EiJ,Brain,Neurons - subtype specific (L2/3 & L4),Most potent for the desired cell type(s) alternative: AAV-PHP.eB with GRE or transgenic animal
+Mouse,129S1/SvlmJ,Brain,Neurons - subtype specific (L5 & Inibitory),Most potent for the desired cell type(s): AAV.CAP-B10 with GRE or transgenic animal
+Mouse,129S1/SvlmJ,Brain,Neurons - subtype specific (L5 & Inibitory),Most specific for the desired cell type(s): AAV-PHP.eB with GRE or transgenic animal
+Mouse,129S1/SvlmJ,Brain,Neurons - subtype specific (L5 & Inibitory),Most potent for the desired cell type(s) alternative: AAV-PHP.eB with GRE or transgenic animal
+Mouse,C57BL/6J,Brain,Neurons - subtype specific (L5 & Inibitory),Most potent for the desired cell type(s): AAV.CAP-B10 with GRE or transgenic animal
+Mouse,C57BL/6J,Brain,Neurons - subtype specific (L5 & Inibitory),Most specific for the desired cell type(s): AAV-PHP.eB with GRE or transgenic animal
+Mouse,C57BL/6J,Brain,Neurons - subtype specific (L5 & Inibitory),Most potent for the desired cell type(s) alternative: AAV-PHP.eB with GRE or transgenic animal
+Mouse,DBA/1J,Brain,Neurons - subtype specific (L5 & Inibitory),Most specific for the desired cell type(s): AAV-PHP.eB with GRE or transgenic animal
+Mouse,DBA/1J,Brain,Neurons - subtype specific (L5 & Inibitory),Most potent for the desired cell type(s): AAV.CAP-B10 with GRE or transgenic animal
+Mouse,DBA/1J,Brain,Neurons - subtype specific (L5 & Inibitory),Most potent for the desired cell type(s) alternative: AAV-PHP.eB with GRE or transgenic animal
+Mouse,DBA/2J,Brain,Neurons - subtype specific (L5 & Inibitory),Most specific for the desired cell type(s): AAV-PHP.eB with GRE or transgenic animal
+Mouse,DBA/2J,Brain,Neurons - subtype specific (L5 & Inibitory),Most potent for the desired cell type(s): AAV.CAP-B10 with GRE or transgenic animal
+Mouse,DBA/2J,Brain,Neurons - subtype specific (L5 & Inibitory),Most potent for the desired cell type(s) alternative: AAV-PHP.eB with GRE or transgenic animal
+Mouse,FVB/NJ,Brain,Neurons - subtype specific (L5 & Inibitory),Most specific for the desired cell type(s): AAV-PHP.eB with GRE or transgenic animal
+Mouse,FVB/NJ,Brain,Neurons - subtype specific (L5 & Inibitory),Most potent for the desired cell type(s): AAV.CAP-B10 with GRE or transgenic animal
+Mouse,FVB/NJ,Brain,Neurons - subtype specific (L5 & Inibitory),Most potent for the desired cell type(s) alternative: AAV-PHP.eB with GRE or transgenic animal
+Mouse,LP/J,Brain,Neurons - subtype specific (L5 & Inibitory),Most specific for the desired cell type(s): AAV-PHP.eB with GRE or transgenic animal
+Mouse,LP/J,Brain,Neurons - subtype specific (L5 & Inibitory),Most potent for the desired cell type(s): AAV.CAP-B10 with GRE or transgenic animal
+Mouse,LP/J,Brain,Neurons - subtype specific (L5 & Inibitory),Most potent for the desired cell type(s) alternative: AAV-PHP.eB with GRE or transgenic animal
+Mouse,MOLF/EiJ,Brain,Neurons - subtype specific (L5 & Inibitory),Most specific for the desired cell type(s): AAV-PHP.eB with GRE or transgenic animal
+Mouse,MOLF/EiJ,Brain,Neurons - subtype specific (L5 & Inibitory),Most potent for the desired cell type(s): AAV.CAP-B10 with GRE or transgenic animal
+Mouse,MOLF/EiJ,Brain,Neurons - subtype specific (L5 & Inibitory),Most potent for the desired cell type(s) alternative: AAV-PHP.eB with GRE or transgenic animal
+Mouse,129S1/SvlmJ,Brain,Neurons - subtype specific (other),Most potent for the desired cell type(s): AAV-PHP.eB with GRE or transgenic animal
+Mouse,129S1/SvlmJ,Brain,Neurons - subtype specific (other),Most potent for the desired cell type(s) alternative: AAV-PHP.eB with GRE or transgenic animal
+Mouse,C57BL/6J,Brain,Neurons - subtype specific (other),Most potent for the desired cell type(s): AAV-PHP.eB with GRE or transgenic animal
+Mouse,C57BL/6J,Brain,Neurons - subtype specific (other),Most potent for the desired cell type(s) alternative: AAV-PHP.eB with GRE or transgenic animal
+Mouse,DBA/1J,Brain,Neurons - subtype specific (other),Most potent for the desired cell type(s): AAV-PHP.eB with GRE or transgenic animal
+Mouse,DBA/1J,Brain,Neurons - subtype specific (other),Most potent for the desired cell type(s) alternative: AAV-PHP.eB with GRE or transgenic animal
+Mouse,DBA/2J,Brain,Neurons - subtype specific (other),Most potent for the desired cell type(s): AAV-PHP.eB with GRE or transgenic animal
+Mouse,DBA/2J,Brain,Neurons - subtype specific (other),Most potent for the desired cell type(s) alternative: AAV-PHP.eB with GRE or transgenic animal
+Mouse,FVB/NJ,Brain,Neurons - subtype specific (other),Most potent for the desired cell type(s): AAV-PHP.eB with GRE or transgenic animal
+Mouse,FVB/NJ,Brain,Neurons - subtype specific (other),Most potent for the desired cell type(s) alternative: AAV-PHP.eB with GRE or transgenic animal
+Mouse,LP/J,Brain,Neurons - subtype specific (other),Most potent for the desired cell type(s): AAV-PHP.eB with GRE or transgenic animal
+Mouse,LP/J,Brain,Neurons - subtype specific (other),Most potent for the desired cell type(s) alternative: AAV-PHP.eB with GRE or transgenic animal
+Mouse,MOLF/EiJ,Brain,Neurons - subtype specific (other),Most potent for the desired cell type(s): AAV-PHP.eB with GRE or transgenic animal
+Mouse,MOLF/EiJ,Brain,Neurons - subtype specific (other),Most potent for the desired cell type(s) alternative: AAV-PHP.eB with GRE or transgenic animal
+Mouse,129S1/SvlmJ,Brain,Neurons - subtype specific (Purkinje),Most potent for the desired cell type(s): AAV-PHP.eB with GRE or transgenic animal
+Mouse,C57BL/6J,Brain,Neurons - subtype specific (Purkinje),Most potent for the desired cell type(s): AAV-PHP.eB with GRE or transgenic animal
+Mouse,DBA/1J,Brain,Neurons - subtype specific (Purkinje),Most potent for the desired cell type(s): AAV-PHP.eB with GRE or transgenic animal
+Mouse,DBA/2J,Brain,Neurons - subtype specific (Purkinje),Most potent for the desired cell type(s): AAV-PHP.eB with GRE or transgenic animal
+Mouse,FVB/NJ,Brain,Neurons - subtype specific (Purkinje),Most potent for the desired cell type(s): AAV-PHP.eB with GRE or transgenic animal
+Mouse,LP/J,Brain,Neurons - subtype specific (Purkinje),Most potent for the desired cell type(s): AAV-PHP.eB with GRE or transgenic animal
+Mouse,MOLF/EiJ,Brain,Neurons - subtype specific (Purkinje),Most potent for the desired cell type(s): AAV-PHP.eB with GRE or transgenic animal
+Mouse,129S1/SvlmJ,Brain,Neurons - broad,Most specific for the desired cell type(s): AAV.CAP-B10
+Mouse,129S1/SvlmJ,Brain,Neurons - broad,Most specific for the desired cell type(s) Alternative: AAV-PHP.N
+Mouse,129S1/SvlmJ,Brain,Neurons - broad,Most potent for the desired cell type(s): AAV.CAP-B10
+Mouse,129S1/SvlmJ,Brain,Neurons - broad,Expanded cell type coverage: AAV-PHP.AX with GRE or transgenic animal
+Mouse,C57BL/6J,Brain,Neurons - broad,Most specific for the desired cell type(s): AAV.CAP-B10
+Mouse,C57BL/6J,Brain,Neurons - broad,Most specific for the desired cell type(s) Alternative: AAV-PHP.N
+Mouse,C57BL/6J,Brain,Neurons - broad,Most potent for the desired cell type(s): AAV.CAP-B10
+Mouse,C57BL/6J,Brain,Neurons - broad,Expanded cell type coverage: AAV-PHP.AX with GRE or transgenic animal
+Mouse,DBA/1J,Brain,Neurons - broad,Most specific for the desired cell type(s): AAV.CAP-B10
+Mouse,DBA/1J,Brain,Neurons - broad,Most specific for the desired cell type(s) Alternative: AAV-PHP.N
+Mouse,DBA/1J,Brain,Neurons - broad,Most potent for the desired cell type(s): AAV.CAP-B10
+Mouse,DBA/1J,Brain,Neurons - broad,Expanded cell type coverage: AAV-PHP.AX with GRE or transgenic animal
+Mouse,DBA/2J,Brain,Neurons - broad,Most specific for the desired cell type(s): AAV.CAP-B10
+Mouse,DBA/2J,Brain,Neurons - broad,Most specific for the desired cell type(s) Alternative: AAV-PHP.N
+Mouse,DBA/2J,Brain,Neurons - broad,Most potent for the desired cell type(s): AAV.CAP-B10
+Mouse,DBA/2J,Brain,Neurons - broad,Expanded cell type coverage: AAV-PHP.AX with GRE or transgenic animal
+Mouse,FVB/NJ,Brain,Neurons - broad,Most specific for the desired cell type(s): AAV.CAP-B10
+Mouse,FVB/NJ,Brain,Neurons - broad,Most specific for the desired cell type(s) Alternative: AAV-PHP.N
+Mouse,FVB/NJ,Brain,Neurons - broad,Most potent for the desired cell type(s): AAV.CAP-B10
+Mouse,FVB/NJ,Brain,Neurons - broad,Expanded cell type coverage: AAV-PHP.AX with GRE or transgenic animal
+Mouse,LP/J,Brain,Neurons - broad,Most specific for the desired cell type(s): AAV.CAP-B10
+Mouse,LP/J,Brain,Neurons - broad,Most specific for the desired cell type(s) Alternative: AAV-PHP.N
+Mouse,LP/J,Brain,Neurons - broad,Most potent for the desired cell type(s): AAV.CAP-B10
+Mouse,LP/J,Brain,Neurons - broad,Expanded cell type coverage: AAV-PHP.AX with GRE or transgenic animal
+Mouse,MOLF/EiJ,Brain,Neurons - broad,Most specific for the desired cell type(s): AAV.CAP-B10
+Mouse,MOLF/EiJ,Brain,Neurons - broad,Most specific for the desired cell type(s) Alternative: AAV-PHP.N
+Mouse,MOLF/EiJ,Brain,Neurons - broad,Most potent for the desired cell type(s): AAV.CAP-B10
+Mouse,MOLF/EiJ,Brain,Neurons - broad,Expanded cell type coverage: AAV-PHP.AX with GRE or transgenic animal
+Mouse,129S1/SvlmJ,Brain,Oligodendrocytes,Most potent for the desired cell type(s): AAV-PHP.eB with GRE or transgenic animal
+Mouse,BALB/cJ,Brain,Oligodendrocytes,Most potent for the desired cell type(s): AAV-PHP.eC with GRE or transgenic animal
+Mouse,C57BL/6J,Brain,Oligodendrocytes,Most potent for the desired cell type(s): AAV-PHP.eB with GRE or transgenic animal
+Mouse,CBA/J,Brain,Oligodendrocytes,Most potent for the desired cell type(s): AAV-PHP.eC with GRE or transgenic animal
+Mouse,DBA/1J,Brain,Oligodendrocytes,Most potent for the desired cell type(s): AAV-PHP.eB with GRE or transgenic animal
+Mouse,DBA/2J,Brain,Oligodendrocytes,Most potent for the desired cell type(s): AAV-PHP.eB with GRE or transgenic animal
+Mouse,FVB/NJ,Brain,Oligodendrocytes,Most potent for the desired cell type(s): AAV-PHP.eB with GRE or transgenic animal
+Mouse,LP/J,Brain,Oligodendrocytes,Most potent for the desired cell type(s): AAV-PHP.eB with GRE or transgenic animal
+Mouse,MOLF/EiJ,Brain,Oligodendrocytes,Most potent for the desired cell type(s): AAV-PHP.eB with GRE or transgenic animal
+Mouse,NOD/ShiLtJ,Brain,Oligodendrocytes,Most potent for the desired cell type(s): AAV-PHP.eC with GRE or transgenic animal
+Mouse,129S1/SvlmJ,Brain,Vascular Cells,Most specific for the desired cell type(s): AAV9-X1.1
+Mouse,129S1/SvlmJ,Brain,Vascular Cells,If animal has AAV9: Neutralizing Abs - AAV1-X1
+Mouse,129S1/SvlmJ,Brain,Vascular Cells,Most potent for the desired cell type(s): AAV9-X1.1
+Mouse,BALB/cJ,Brain,Vascular Cells,Most specific for the desired cell type(s): AAV9-X1.1
+Mouse,BALB/cJ,Brain,Vascular Cells,If animal has AAV9: Neutralizing Abs - AAV1-X1
+Mouse,BALB/cJ,Brain,Vascular Cells,Most potent for the desired cell type(s): AAV9-X1.1
+Mouse,C57BL/6J,Brain,Vascular Cells,Most specific for the desired cell type(s): AAV9-X1.1
+Mouse,C57BL/6J,Brain,Vascular Cells,If animal has AAV9: Neutralizing Abs - AAV1-X1
+Mouse,C57BL/6J,Brain,Vascular Cells,Most potent for the desired cell type(s): AAV9-X1.1
+Mouse,CBA/J,Brain,Vascular Cells,Most specific for the desired cell type(s): AAV9-X1.1
+Mouse,CBA/J,Brain,Vascular Cells,If animal has AAV9: Neutralizing Abs - AAV1-X1
+Mouse,CBA/J,Brain,Vascular Cells,Most potent for the desired cell type(s): AAV9-X1.1
+Mouse,DBA/1J,Brain,Vascular Cells,Most specific for the desired cell type(s): AAV9-X1.1
+Mouse,DBA/1J,Brain,Vascular Cells,If animal has AAV9: Neutralizing Abs - AAV1-X1
+Mouse,DBA/1J,Brain,Vascular Cells,Most potent for the desired cell type(s): AAV9-X1.1
+Mouse,DBA/2J,Brain,Vascular Cells,Most specific for the desired cell type(s): AAV9-X1.1
+Mouse,DBA/2J,Brain,Vascular Cells,If animal has AAV9: Neutralizing Abs - AAV1-X1
+Mouse,DBA/2J,Brain,Vascular Cells,Most potent for the desired cell type(s): AAV9-X1.1
+Rat,Fischer,Brain,Vascular Cells,Most specific for the desired cell type(s): AAV9-X1.1
+Rat,Fischer,Brain,Vascular Cells,Most potent for the desired cell type(s): AAV9-X1.1
+Mouse,FVB/NJ,Brain,Vascular Cells,Most specific for the desired cell type(s): AAV9-X1.1
+Mouse,FVB/NJ,Brain,Vascular Cells,If animal has AAV9: Neutralizing Abs - AAV1-X1
+Mouse,FVB/NJ,Brain,Vascular Cells,Most potent for the desired cell type(s): AAV9-X1.1
+Rat,Long-Evans,Brain,Vascular Cells,Most specific for the desired cell type(s): AAV9-X1.1
+Rat,Long-Evans,Brain,Vascular Cells,Most potent for the desired cell type(s): AAV9-X1.1
+Mouse,LP/J,Brain,Vascular Cells,Most specific for the desired cell type(s): AAV9-X1.1
+Mouse,LP/J,Brain,Vascular Cells,If animal has AAV9: Neutralizing Abs - AAV1-X1
+Mouse,LP/J,Brain,Vascular Cells,Most potent for the desired cell type(s): AAV9-X1.1
+Marmoset,Not Applicable,Brain,Vascular Cells,Most specific for the desired cell type(s): AAV.CAP-Mac
+Marmoset,Not Applicable,Brain,Vascular Cells,Most potent for the desired cell type(s): AAV.CAP-Mac
+Mouse,MOLF/EiJ,Brain,Vascular Cells,Most specific for the desired cell type(s): AAV9-X1.1
+Mouse,MOLF/EiJ,Brain,Vascular Cells,If animal has AAV9: Neutralizing Abs - AAV1-X1
+Mouse,MOLF/EiJ,Brain,Vascular Cells,Most potent for the desired cell type(s): AAV9-X1.1
+Mouse,NOD/ShiLtJ,Brain,Vascular Cells,Most specific for the desired cell type(s): AAV9-X1.1
+Mouse,NOD/ShiLtJ,Brain,Vascular Cells,If animal has AAV9: Neutralizing Abs - AAV1-X1
+Mouse,NOD/ShiLtJ,Brain,Vascular Cells,Most potent for the desired cell type(s): AAV9-X1.1
+Rat,Shaker,Brain,Vascular Cells,Most specific for the desired cell type(s): AAV9-X1.1
+Rat,Shaker,Brain,Vascular Cells,Most potent for the desired cell type(s): AAV9-X1.1
+Rat,Sprague Dawley,Brain,Vascular Cells,Most specific for the desired cell type(s): AAV9-X1.1
+Rat,Sprague Dawley,Brain,Vascular Cells,Most potent for the desired cell type(s): AAV9-X1.1
+Rat,Wistar,Brain,Vascular Cells,Most specific for the desired cell type(s): AAV9-X1.1
+Rat,Wistar,Brain,Vascular Cells,Most potent for the desired cell type(s): AAV9-X1.1
+Macaque,Not Applicable,Peripheral Nervous System,Broad,Most potent for the desired cell type(s): AAV.MaCPNS2 (Note: CNS is also broadly transduced in this species)
+Marmoset,Not Applicable,Peripheral Nervous System,Broad,Most potent for the desired cell type(s): AAV.MaCPNS2 (Note: CNS is also broadly transduced in this species)
+Mouse,Not Applicable (no known strain-specifiity),Peripheral Nervous System,Broad,Alternative capsid: PHP.S
+Mouse,Not Applicable (no known strain-specifiity),Peripheral Nervous System,Broad,Most potent for the desired cell type(s): AAV.MaCPNS2
+Rat,Not Applicable (no known strain-specifiity),Peripheral Nervous System,Broad,Alternative capsid: PHP.S
+Rat,Not Applicable (no known strain-specifiity),Peripheral Nervous System,Broad,Most potent for the desired cell type(s): AAV.MaCPNS2
+Macaque,Not Applicable,Peripheral Nervous System,Enteric,Most potent for the desired cell type(s): AAV.MaCPNS2 with GRE (Note: CNS is also broadly transduced in this species)
+Marmoset,Not Applicable,Peripheral Nervous System,Enteric,Alternative capsid: AAV.MaCPNS1 with GRE (Note: CNS is also broadly transduced in this species)
+Marmoset,Not Applicable,Peripheral Nervous System,Enteric,Most potent for the desired cell type(s): AAV.MaCPNS2 with GRE (Note: CNS is also broadly transduced in this species)
+Mouse,Not Applicable (no known strain-specifiity),Peripheral Nervous System,Enteric,Most potent for the desired cell type(s): AAV.MaCPNS2 with GRE
+Rat,Not Applicable (no known strain-specifiity),Peripheral Nervous System,Enteric,Alternative capsid: AAV.MaCPNS1 with GRE
+Rat,Not Applicable (no known strain-specifiity),Peripheral Nervous System,Enteric,Most potent for the desired cell type(s): AAV.MaCPNS2 with GRE
+Macaque,Not Applicable,Peripheral Nervous System,Sensory,Alternative capsid: AAV.MaCPNS2 with GRE (Note: CNS is also broadly transduced in this species)
+Macaque,Not Applicable,Peripheral Nervous System,Sensory,Most potent for the desired cell type(s): AAV.MaCPNS1 with GRE (Note: CNS is also broadly transduced in this species)
+Marmoset,Not Applicable,Peripheral Nervous System,Sensory,Alternative capsid: AAV.MaCPNS2 with GRE (Note: CNS is also broadly transduced in this species)
+Marmoset,Not Applicable,Peripheral Nervous System,Sensory,Most potent for the desired cell type(s): AAV.MaCPNS1 with GRE (Note: CNS is also broadly transduced in this species)
+Mouse,Not Applicable (no known strain-specifiity),Peripheral Nervous System,Sensory,Most specific for the desired cell type(s): AAV.MaCPNS1
+Mouse,Not Applicable (no known strain-specifiity),Peripheral Nervous System,Sensory,Most potent for the desired cell type(s): AAV.MaCPNS1
+Rat,Not Applicable (no known strain-specifiity),Peripheral Nervous System,Sensory,Alternative capsid: AAV.MaCPNS2 with GRE
+Rat,Not Applicable (no known strain-specifiity),Peripheral Nervous System,Sensory,Most potent for the desired cell type(s): AAV.MaCPNS1 with GRE

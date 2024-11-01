@@ -1,0 +1,78 @@
+/* .item-button1, .item-button2, .item-button3, .item-button4 {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 25px;
+    border-radius: 5px;
+    border-width: 3px;
+    border-color: blue;
+}
+
+.item-button1:hover, .item-button2:hover, .item-button3:hover, .item-button4:hover {
+    background-color: lightblue;
+    transition: 800ms ease;
+} */
+
+body {
+    font-family: Helvetica;
+}
+
+.list {
+    margin: 5px;
+    list-style-type: none;
+    font-size: 20px;
+    border-radius: 5px;
+    border-width: 2px;
+    width: fit-content;
+}
+
+#clear {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 25px;
+    border-radius: 10px;
+    border-width: 3px;
+    border-color: black;
+}
+
+#clear:hover {
+    background-color: red;
+    color: white;
+    transition: 1000ms ease;
+}
+
+span {
+    /* font-size: 50px; */
+    padding-left: 20px;
+}
+
+label {
+    font-weight: bolder;
+    font-size: 22px;
+}
+
+p {
+    font-size: 14px;
+}
+
+#aav-repo-link {
+    font-size: larger;
+}
+
+.ptext {
+    font-size: 20px;
+    margin: 8px;
+}
+
+#last {
+    color: white;
+}
+
+#clover-link {
+    text-decoration: none;
+    padding-top: 20px;
+    font-size: xx-large;
+}
+
+#clover-link:hover {
+    text-decoration: underline;
+}
